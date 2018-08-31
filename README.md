@@ -1,4 +1,4 @@
 sbargy.github.io
 ================
 
-My github.io page
+My tidy github.io page
